@@ -59,19 +59,16 @@ const dataPairs = [['name', 'Alice'], ['age', 21], ['city', 'New York']];
 // 8.Challenge: Write a function that removes duplicate values from an array using reduce().
 const numbers = [1, 2, 2, 3, 4, 4, 5];
 
-const uniqueNumbers = numbers.reduce((acc, num) => {
-  if (!acc.includes(num)) {
-    acc.push(num);
-  }
-  return acc;
-}, []);
 
-console.log(uniqueNumbers); // Expected output: [1, 2, 3, 4, 5]
+ // Expected output: [1, 2, 3, 4, 5]
 
 
 // 9.Challenge: Write a function that uses reduce() to calculate the average of numbers in an array.
 const grades = [10, 20, 30, 40];
  // Expected output: 25
+
+
+
 
 
 
