@@ -56,7 +56,7 @@ const dataPairs = [['name', 'Alice'], ['age', 21], ['city', 'New York']];
 // Expected output: { name: 'Alice', age: 21, city: 'New York' }
 
 
-// Challenge: Write a function that removes duplicate values from an array using reduce().
+// 8.Challenge: Write a function that removes duplicate values from an array using reduce().
 const numbers = [1, 2, 2, 3, 4, 4, 5];
 
 const uniqueNumbers = numbers.reduce((acc, num) => {
