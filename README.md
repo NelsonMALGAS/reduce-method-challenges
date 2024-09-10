@@ -1,6 +1,6 @@
 # Array Challenges README
 
-Welcome to the Array Challenges! This repository contains 8 exercises to help you improve your JavaScript skills, specifically working with arrays. Each challenge presents a unique problem to solve using the reduce() method.
+Welcome to the Array Challenges! This repository contains 9 exercises to help you improve your JavaScript skills, specifically working with arrays. Each challenge presents a unique problem to solve using the reduce() method.
 
 ## Challenges:
 
